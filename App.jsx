@@ -8,13 +8,9 @@ import Button from 'muicss/lib/react/button';
 class Example extends React.Component {
   render() {
     return (
-      <Form>
-        <legend>Title</legend>
-        <Input hint="Input 1" />
-        <Input hint="Input 2" />
-        <Textarea hint="Textarea" />
-        <Button variant="raised">Submit</Button>
-      </Form>
+      <div>
+            Hello World!!!
+         </div>
     );
   }
 }
